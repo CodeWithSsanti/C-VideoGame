@@ -1,0 +1,32 @@
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\Rebel AssaultTesting.exe.config
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\Rebel AssaultTesting.exe
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\Rebel AssaultTesting.pdb
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\obj\Debug\Rebel AssaultTesting.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\obj\Debug\Rebel_AssaultTesting.Properties.Resources.resources
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\obj\Debug\Rebel AssaultTesting.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\obj\Debug\Rebel AssaultTesting.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\obj\Debug\Rebel AssaultTesting.exe
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\obj\Debug\Rebel AssaultTesting.pdb
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\obj\Debug\Rebel_AssaultTesting.Form1.resources
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\NAudio.Asio.dll
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\NAudio.Core.dll
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\NAudio.dll
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\NAudio.Midi.dll
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\NAudio.Wasapi.dll
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\NAudio.WinForms.dll
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\NAudio.WinMM.dll
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\System.Security.AccessControl.dll
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\NAudio.xml
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\NAudio.Asio.xml
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\NAudio.Core.xml
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\NAudio.Midi.xml
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\NAudio.Wasapi.xml
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\NAudio.WinForms.xml
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\NAudio.WinMM.xml
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\System.Security.AccessControl.xml
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\obj\Debug\Rebel As.CE7D8E69.Up2Date
+C:\Users\santi\OneDrive\Desktop\Rebel Assault - Juego -\Rebel AssaultTesting\obj\Debug\Rebel_AssaultTesting.GameOver.resources

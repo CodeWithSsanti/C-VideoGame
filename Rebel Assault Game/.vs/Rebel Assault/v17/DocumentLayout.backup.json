@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel Assault.csproj|c:\\users\\santi\\onedrive\\desktop\\rebel assault - juego -\\rebel assaulttesting\\maincharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel Assault.csproj|solutionrelative:maincharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\maincharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|solutionrelative:maincharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel Assault.csproj|c:\\users\\santi\\onedrive\\desktop\\rebel assault - juego -\\rebel assaulttesting\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel Assault.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|solutionrelative:gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|c:\\users\\santi\\onedrive\\desktop\\rebel assault - juego -\\rebel assaulttesting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|solutionrelative:enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|solutionrelative:gameover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\enemypro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|solutionrelative:enemypro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\scoreentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|solutionrelative:scoreentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|solutionrelative:scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|solutionrelative:projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|solutionrelative:healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|solutionrelative:soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|solutionrelative:mapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\combatsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BE77E-0563-4E7E-82DC-E43B3AC22C97}|Rebel AssaultTesting.csproj|solutionrelative:combatsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:09:30.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\MainCharacter.cs",
+              "RelativeDocumentMoniker": "MainCharacter.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\MainCharacter.cs",
+              "RelativeToolTip": "MainCharacter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T22:09:30.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CombatSystem.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\CombatSystem.cs",
+              "RelativeDocumentMoniker": "CombatSystem.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\CombatSystem.cs",
+              "RelativeToolTip": "CombatSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:49:01.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Mapa.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\Mapa.cs",
+              "RelativeDocumentMoniker": "Mapa.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\Mapa.cs",
+              "RelativeToolTip": "Mapa.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:31:03.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\SoundManager.cs",
+              "RelativeDocumentMoniker": "SoundManager.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\SoundManager.cs",
+              "RelativeToolTip": "SoundManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T01:39:27.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\HealthBar.cs",
+              "RelativeDocumentMoniker": "HealthBar.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\HealthBar.cs",
+              "RelativeToolTip": "HealthBar.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:18:20.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\Projectile.cs",
+              "RelativeDocumentMoniker": "Projectile.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\Projectile.cs",
+              "RelativeToolTip": "Projectile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T23:39:41.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "ScoreManager.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\ScoreManager.cs",
+              "RelativeToolTip": "ScoreManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAHUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:10:04.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ScoreEntry.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\ScoreEntry.cs",
+              "RelativeDocumentMoniker": "ScoreEntry.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\ScoreEntry.cs",
+              "RelativeToolTip": "ScoreEntry.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:08:25.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnemyPro.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\EnemyPro.cs",
+              "RelativeDocumentMoniker": "EnemyPro.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\EnemyPro.cs",
+              "RelativeToolTip": "EnemyPro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:51:08.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\MainCharacter.cs",
+              "RelativeDocumentMoniker": "MainCharacter.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\MainCharacter.cs",
+              "RelativeToolTip": "MainCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:46:27.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T18:52:17.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\GameManager.cs",
+              "RelativeDocumentMoniker": "GameManager.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\GameManager.cs",
+              "RelativeToolTip": "GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:45:40.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\GameObject.cs",
+              "RelativeDocumentMoniker": "GameObject.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\GameObject.cs",
+              "RelativeToolTip": "GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:29:40.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:36:40.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\Enemy.cs",
+              "RelativeDocumentMoniker": "Enemy.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\Enemy.cs",
+              "RelativeToolTip": "Enemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T15:25:26.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameOver.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\GameOver.cs",
+              "RelativeDocumentMoniker": "GameOver.cs",
+              "ToolTip": "C:\\Users\\santi\\OneDrive\\Desktop\\Rebel Assault - Juego -\\Rebel AssaultTesting\\GameOver.cs",
+              "RelativeToolTip": "GameOver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T15:57:29.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

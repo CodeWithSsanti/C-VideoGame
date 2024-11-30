@@ -1,0 +1,10 @@
+Santiago,11880
+Santiago,11530
+Santiago,11360
+AAA,11360
+Santiago,11290
+Player1,11250
+Santiago,11170
+Santiago,11170
+Player1,11150
+AAA,11070
